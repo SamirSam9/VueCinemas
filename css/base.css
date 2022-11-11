@@ -11,19 +11,19 @@
     --w: #fff;
     --lo: #ED8E00;
     --or: #F18128;
-    --cr:'CR', sans-serif;
-    --cb:'CB', sans-serif;
-    --mr:'MR', sans-serif;
-    --mb:'MB', sans-serif;
-    --rr:'RR', sans-serif;
-    --rm:'RM', sans-serif;
-    --bl:#000;
+    --cr: 'CR', sans-serif;
+    --cb: 'CB', sans-serif;
+    --mr: 'MR', sans-serif;
+    --mb: 'MB', sans-serif;
+    --rr: 'RR', sans-serif;
+    --rm: 'RM', sans-serif;
+    --bl: #000;
 }
 
 body {
     background: var(--bg);
     color: var(--w);
-    font-family:var(--cr) ;
+    font-family: var(--cr);
 }
 
 .container {
