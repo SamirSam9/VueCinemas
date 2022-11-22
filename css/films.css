@@ -52,8 +52,7 @@
 
 .timer {
     padding: 7px 28px;
-    background: linear-gradient(0deg, rgba(7, 15, 25, 0.2), rgba(7, 15, 25, 0.2)),
-        linear-gradient(0deg, #FFFFFF, #FFFFFF);
+    background: #070F1933;
     border-radius: 9px;
     border: 1px solid var(--w);
     display: block;
@@ -84,9 +83,10 @@
 @media screen and (max-width:1140px) {
     .films__wrap {
         grid-template-columns: repeat(2, 255px);
-        justify-content:center ;
+        justify-content: center;
     }
 }
+
 @media screen and (max-width:568px) {
     .films__wrap {
         grid-template-columns: repeat(1, 255px);
