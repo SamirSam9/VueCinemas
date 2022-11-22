@@ -65,4 +65,5 @@ body {
     border-bottom: 2px solid var(--or);
     color: var(--or);
     text-transform: capitalize;
+    padding-bottom: 10px;
 }
